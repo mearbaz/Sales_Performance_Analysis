@@ -39,4 +39,4 @@ To utilize the Sales Performance Analysis module:
 
 Here’s a snapshot of our sales performance dashboard:
 
-![Sales Dashboard]("C:\Users\Arbaz\OneDrive\Pictures\Screenshots\Screenshot 2024-09-25 113336.png")
+![Sales Dashboard](Sales.png)
