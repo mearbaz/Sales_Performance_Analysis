@@ -32,3 +32,11 @@ To utilize the Sales Performance Analysis module:
 1. Clone the repository:
    ```bash
    git clone https://github.com/mearbaz/Sales_Performance_Analysis.git
+
+   
+
+## Sales Performance Dashboard
+
+Here’s a snapshot of our sales performance dashboard:
+
+![Sales Dashboard]("C:\Users\Arbaz\OneDrive\Pictures\Screenshots\Screenshot 2024-09-25 113336.png")
